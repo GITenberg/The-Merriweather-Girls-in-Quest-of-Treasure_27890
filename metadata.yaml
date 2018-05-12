@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32996'
     url: http://www.gutenberg.org/2009/agents/32996
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27890#The-Merriweather-Girls-in-Quest-of-Treasure
 gutenberg_issued: '2009-01-26'
 gutenberg_type: Text
 identifiers:
