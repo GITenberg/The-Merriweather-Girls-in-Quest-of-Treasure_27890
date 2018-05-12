@@ -1,0 +1,30 @@
+_repo: The-Merriweather-Girls-in-Quest-of-Treasure_27890
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edholm, Lizette M.
+    gutenberg_agent_id: '32996'
+    url: http://www.gutenberg.org/2009/agents/32996
+description: ''
+gutenberg_issued: '2009-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27890'
+  lccn: '32011199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Arizona -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+title: The Merriweather Girls in Quest of Treasure
+url: http://www.gutenberg.org/ebooks/27890
